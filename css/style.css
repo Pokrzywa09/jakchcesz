@@ -1,0 +1,43 @@
+
+
+#intro {
+    min-height: 85vh;
+    background-image: url("../image/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex; /* NEW */
+	color: white;
+	
+	
+}
+
+#tekspodnav {
+		
+	padding-top: 42vh;
+    padding-bottom: 42vh;
+}
+
+#navbarmenu{
+	
+	background: rgba(0,0,0,0.0);
+	margin-top: 2vh:
+	
+}
+.about{
+    background-color: #B2DFDB;
+}
+
+.about blockquote, form {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  margin-bottom: 0;
+
+}
+
+#contact {
+  background-image: url("../img/y.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
